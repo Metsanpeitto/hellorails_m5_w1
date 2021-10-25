@@ -1,5 +1,5 @@
 {
-  "name": "hellorails-m5-w1",
+  "name": "hellorails",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
