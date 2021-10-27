@@ -4,7 +4,6 @@
 
 "Hello Rails" is an exercise designed to pratice the basic setup of Ruby on Rails using postgres as database.
 
-
 =======
 
 ## Built With 
